@@ -68,15 +68,6 @@
         <type>Picklist</type>
     </fields>
     <label>Copado_Test_Object</label>
-    <listViews>
-        <fullName>Copado_Test_Queue_Copado_Test_Object</fullName>
-        <filterScope>Queue</filterScope>
-        <label>Copado_Test_Queue</label>
-        <queue>Copado_Test_Queue</queue>
-        <sharedTo>
-            <allInternalUsers></allInternalUsers>
-        </sharedTo>
-    </listViews>
     <nameField>
         <label>Copado_Test_Object Name</label>
         <trackHistory>false</trackHistory>
